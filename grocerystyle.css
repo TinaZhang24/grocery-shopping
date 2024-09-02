@@ -1,0 +1,31 @@
+.box{
+    width:fit-content;
+    height:fit-content;
+}
+h1{
+    text-align:center;
+    color:mediumaquamarine;
+}
+h2{
+    background-color: rgba(216, 209, 192, 0.945);
+    border: solid;
+    border-width: 1px;
+    width:66%
+}
+section{
+    background-color: lightgray;
+    height:10rem;
+    width:15rem;
+    margin-right: 15px;
+    padding-left: 15px;
+}
+.child{
+    display: inline-block;
+}
+.pic{
+    height:10rem;
+    width:15rem;
+    float:right;
+    padding-left: 15px;
+    border: 2px;
+}
